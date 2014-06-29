@@ -5,6 +5,6 @@ package com.example.helloworld;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("test, raisk");
+        System.out.println("no aga teeb veel mingid muudatused siis");
     }
 }
